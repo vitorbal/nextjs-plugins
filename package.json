@@ -1,0 +1,22 @@
+{
+  "name": "nextjs-plugins",
+  "version": "0.0.1",
+  "description": "Plugin system for Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/vitorbal/nextjs-plugins.git",
+  "keywords": [
+    "nextjs",
+    "next.js",
+    "next",
+    "plugins"
+  ],
+  "author": "Vitor Balocco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorbal/nextjs-plugins/issues"
+  },
+  "homepage": "https://github.com/vitorbal/nextjs-plugins#readme"
+}
